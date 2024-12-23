@@ -1,5 +1,6 @@
 <h2 align="center"><samp>Hi 👋 I'm Abstract</samp></h2>
 <h3 align="center"><samp>A developer from Germany</samp> </h3>
+<img align="center" alt="Coding" width="1000" src="https://github.com/abstract-de/abstract-de/blob/main/abstractbanner.gif?raw=true">
 
 <!--
 **abstract-de/abstract-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning everything
 - 📫 How to reach me: discord: _.abstract.__ (1094252789909176330)
 - ⚡ I am funny
+- 
+<h2 align="center">💻 Languages and Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,nodejs,,javascript" /><br>
+</div>
 
 <div style="margin-bottom: 60px;"></div>
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>

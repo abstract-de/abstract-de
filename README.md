@@ -9,7 +9,7 @@
 <h2 align="center">💻 Languages and Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,html,css,figma" />
-    <img src="https://skillicons.dev/icons?i=mysql,python,nodejs,,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,python,nodejs,javascript" /><br>
 </div>
 
 <div style="margin-bottom: 60px;"></div>
